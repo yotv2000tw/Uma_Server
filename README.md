@@ -16,9 +16,9 @@
 
 ## 本伺服器相關規定說明
 
-* [馬娘連結 基本規定](ji-ben-gui-ding/ma-niang-lian-jie-ji-ben-gui-ding.md)：核心事項相關規則。
-* [馬娘連結 基本處分規章](chu-fen/ma-niang-lian-jie-ji-ben-chu-fen-gui-zhang.md)：規範伺服器內各項行為之限制，與其對應之處分。
-* [馬娘連結 處分申訴處理要點](chu-fen/ma-niang-lian-jie-chu-fen-shen-su-chu-li-yao-dian.md)：規範如何申訴，以及管理員如何處理申訴。
+* [馬娘連結 基本規定](basic/basic_rule.md)：核心事項相關規則。
+* [馬娘連結 基本處分規章](sanction_rule/basic_sanction_rule.md)：規範伺服器內各項行為之限制，與其對應之處分。
+* [馬娘連結 處分申訴處理要點](sanction_rule/sanction_appeal_rule.md)：規範如何申訴，以及管理員如何處理申訴。
 * 馬娘連結 處分規章判定標準：針對基本處分規章的詳細判定標準與其對應處分細節，以下為目前有訂定的標準：
-  * [馬娘連結 洗版事項判定標準](chu-fen-xi-ze/ma-niang-lian-jie-xi-ban-shi-xiang-pan-ding-biao-zhun.md)
+  * [馬娘連結 洗版事項判定標準](sanction_standard/spam_standard.md)
 

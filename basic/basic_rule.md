@@ -20,11 +20,6 @@ description: 適用區域：馬娘伺服器（811185992198389800）
 三、稱規定者，謂可從客觀理解具有規範特定伺服器成員，由管理員發布，並經群主核可之內容。  
 四、稱頻道者，謂於Discord獨立的文字或語音頻道，附屬於頻道之討論串，或其他性質類似，可供全部或部分成員使用之區域。僅供管理使用之頻道，或基於公告展示用途之頻道，其規定適用範圍應以群主認定為準。
 
-| 名稱 | 網址 |
-| :--- | :--- |
-| Discord 服務條款 | [https://discord.com/terms](https://discord.com/terms) |
-| Discord 社群指南 | [https://discord.com/guidelines](https://discord.com/guidelines) |
-
 ### 第二條 （適用）
 
 如其餘規定未規範者，應以本規定為準。  
