@@ -15,3 +15,7 @@
 
 * [馬娘連結 洗版事項判定標準](sanction_standard/spam_standard.md)
 
+## 人氣票選活動 <a id="character_voting"></a>
+
+* [第一屆機器人票數紀錄](character_voting/1st_character_voting_detail.md)
+
