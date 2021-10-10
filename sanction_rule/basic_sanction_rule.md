@@ -1,6 +1,3 @@
----
-cover: ../.gitbook/assets/91070140_p1.png
----
 # 馬娘連結 基本處分規章
 
 ## 第一章 總則 <a href="chapter-1" id="chapter-1"></a>
