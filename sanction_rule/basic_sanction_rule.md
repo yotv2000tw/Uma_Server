@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/91070140_p1.png
 ---
 # 馬娘連結 基本處分規章
 
